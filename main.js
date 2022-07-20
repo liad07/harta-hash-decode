@@ -14,6 +14,5 @@ for (let i = 0; i < str.length; i++) {
     }
 }
 console.log(newstr)
-document.title=newstr
 document.write(newstr)
 
